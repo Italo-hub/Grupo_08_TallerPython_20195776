@@ -1,5 +1,5 @@
-# Grupo_08_TallerPython_CodigoPUCP
-TAREA:
+# Tarea
+
 Este repositorio contiene los siguientes elementos:
 - Tarea 1
 - Tarea 2
